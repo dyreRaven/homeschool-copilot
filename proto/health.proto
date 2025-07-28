@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package copilot.health;
+
+service Health {
+  rpc Check (Empty) returns (HealthStatus);
+}
+
+message Empty {}
+
+message HealthStatus {
+  bool serving = 1;
+}

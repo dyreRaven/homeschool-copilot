@@ -1,0 +1,9 @@
+# ─ Rust ───────────────────────────────
+**/target/
+
+# ─ Node/Electron ──────────────────────
+**/node_modules/
+**/dist/
+
+# ─ macOS cruft ────────────────────────
+.DS_Store

@@ -1,0 +1,1 @@
+# Homeschool Copilot
