@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# ─ Generated gRPC-web/ts-proto stubs ─
+ui/src/proto/
