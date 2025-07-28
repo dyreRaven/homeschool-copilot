@@ -24,3 +24,6 @@ pnpm-debug.log*
 .DS_Store
 .AppleDouble
 .LSOverride
+# ─ UI (Node) ──────────────────────────
+ui/node_modules/
+ui/dist/
